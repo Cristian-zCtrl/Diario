@@ -1,1 +1,2 @@
 Dia 1: Hoy empizo mi diario con git.Día 2: hoy aprendi sobre el comando git agg y git
+Día 3: Estoy entendiendo como funciona las ramas en git.
